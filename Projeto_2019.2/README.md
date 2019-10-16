@@ -25,7 +25,8 @@ Primeira Parte: Criação dos fingerprints da música
 Segunda Parte: Reconhecimento de Aúdio
 ---
 
-OBS: 	trymatch.m -> Função de busca na hash, baseado no artigo disponivel em Material de Apoio
+OBS: 	
+	trymatch.m -> Função de busca na hash, baseado no artigo disponivel em Material de Apoio
 	get_fingerprint.m -> Função que fara o fingerprint que estará salvo na hash. Função baseada no artigo disponivel em Material de Apoio
 
 
